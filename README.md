@@ -82,6 +82,7 @@ The genetically optimized ensemble model achieves:
 ![download (2)](https://github.com/user-attachments/assets/8e214a5d-c6bb-4157-ba95-f34e35a69bd0)
 
 - ROC curve for model performance.
+  
 ![download](https://github.com/user-attachments/assets/f4675796-90e8-4b71-b302-d0c5a3233028)
 
 ## Applications
